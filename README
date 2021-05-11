@@ -1,0 +1,4 @@
+This project contains scripts and relative pictures to control a OSRS Runescape character.
+The method in which the bots are controlled is using OpenCV to detect color changes or sprite changes.
+Certain bots have more features than other. Some include SMS (texting) controls to tell them when to login and begin and when to stop.
+Feel free to use these scripts for yourself, or as a basis.
